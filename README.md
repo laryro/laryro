@@ -9,8 +9,8 @@ I love the web and I work to create beautiful experiences for users and customer
 
 
 
-<p align="center"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=laryro&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="laryro" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=laryro&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="laryro" /></p>
+<p align="center"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=laryro&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&count_private=true" alt="laryro" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=laryro&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="laryro" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
