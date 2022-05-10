@@ -1,8 +1,10 @@
 <h2 align="center">Hiya! 💁🏻‍♀✨ </h2>
 
-Hi! I am a Frontend Engineer with 9+ years of experience based in São Paulo/Brazil, currently working as a **Frontend Engineer @ [Mixmax](https://mixmax.com/careers)** (we're hiring!).
+Hi! I am a Frontend Engineer with 9+ years of experience based in São Paulo/Brazil.
 
-I love the web and I work to create beautiful experiences for users and customers. My passion is to build products that have the ability to improve people's lives.
+I love the web and I work to create beautiful experiences for users and customers. 
+My passion is to build things that have the ability to improve people's lives.
+I love to teach and mentor people. 
 
 - 💬 Ask me about **html, css, js, react, styled-components, git**
 - 📫 How to reach me: **[DM me on Twitter](https://twitter.com/laryro)**!
