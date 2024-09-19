@@ -7,4 +7,4 @@ My passion is to build things that have the ability to improve people's lives.
 I love to teach and mentor people. 
 
 - 💬 Ask me about **html, css, js, react, styled-components, git**
-- 📫 How to reach me: **[DM me on Bluesky]([https://bsky.app/profile/laryro.dev](https://bsky.app/profile/laryro.dev))** or **[Add me on LinkedIn]([linkedin.com/in/laryro](https://linkedin.com/in/laryro))**!
+- 📫 How to reach me: **[DM me on Bluesky](https://bsky.app/profile/laryro.dev)** or **[Add me on LinkedIn](https://linkedin.com/in/laryro)**!
