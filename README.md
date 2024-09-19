@@ -7,15 +7,4 @@ My passion is to build things that have the ability to improve people's lives.
 I love to teach and mentor people. 
 
 - 💬 Ask me about **html, css, js, react, styled-components, git**
-- 📫 How to reach me: **[DM me on Twitter](https://twitter.com/laryro)**!
-
-
-
-<p align="center"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=laryro&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&count_private=true" alt="laryro" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=laryro&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="laryro" /></p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/laryro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laryro" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/laryro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laryro" height="20" width="20" /></a>
-</p>
+- 📫 How to reach me: **[DM me on Bluesky]([https://bsky.app/profile/laryro.dev](https://bsky.app/profile/laryro.dev))** or **[Add me on LinkedIn]([linkedin.com/in/laryro](https://linkedin.com/in/laryro))**!
